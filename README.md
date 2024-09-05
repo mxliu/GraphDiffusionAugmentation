@@ -1,9 +1,8 @@
 # Graph-Contrastive-Learning-with-Diffusion-Augmentation
-This is the code for the "Self-Supervised Graph Contrastive Learning with Diffusion Augmentation" project
+This is the implementation for our paper "Self-Supervised Graph Contrastive Learning with Diffusion Augmentation for Functional MRI Analysis". Code is developed and tested in Python 3.9.17 using PyTorch 2.1.2+cu118.
 
 # Paper
 Self-Supervised Graph Contrastive Learning with Diffusion Augmentation for Functional MRI Analysis and Brain Disorder Detection
-
 Xiaochuan Wang, Yuqi Fang, Qianqian Wang, Pew-Thian Yap, Hongtu Zhu, Mingxia Liu
 
 # Dependencies 
