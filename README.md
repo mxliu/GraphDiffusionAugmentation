@@ -3,6 +3,7 @@ This is the implementation for our paper "Self-Supervised Graph Contrastive Lear
 
 # Paper
 **Self-Supervised Graph Contrastive Learning with Diffusion Augmentation for Functional MRI Analysis and Brain Disorder Detection** 
+
 Xiaochuan Wang, Yuqi Fang, Qianqian Wang, Pew-Thian Yap, Hongtu Zhu, Mingxia Liu
 
 # Dependencies 
