@@ -14,7 +14,7 @@ torchmetrics=1.1.1
 wandb=0.15.10
 
 # Usage
-- `pretraining.py`: The pre-training of the proposed GCDA.
+- `pretraining.py`: The pre-training of the proposed graph contrastive learning with diffusion augmentation (GCDA).
 - `pretext_model.py`: The pretext model for pre-training mainly include graph diffusion augmentation (GDA) and graph contrastive learning.
 - `diffusion_model.py`: The main functions for the GDA module mainly include noise unit and denoising neural network.
 - `noisy_schedule.py`: The transition function in noise unit.
