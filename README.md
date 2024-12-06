@@ -31,7 +31,7 @@ wandb=0.15.10
 - `dataset1`: Data preparation for fine-tuning.
 
 # Citation
-If you use this toolbox in your research, please cite this paper:
+If you use this code in your research, please cite this paper:
 
 ```
 @article{wang2025self,
