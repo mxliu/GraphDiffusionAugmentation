@@ -28,7 +28,22 @@ wandb=0.15.10
 - `dataset`: Data preparation for pre-training. 
 - `fine_tune`: The fine-tuning of the proposed GCDA.
 - `fine_tune_model.py`: The task-specific model for fine-tuning.
-- `dataset1`: Data preparation for fine-tuning. 
+- `dataset1`: Data preparation for fine-tuning.
+
+# Citation
+If you use this toolbox in your research, please cite this paper:
+
+```
+@article{wang2025self,
+  author = {Wang, Xiaochuan and Fang, Yuqi and Wang, Qianqian and Yap, Pew-Thian and Zhu, Hongtu and Liu, Mingxia},  
+  title = {Self-supervised graph contrastive learning with diffusion augmentation for functional MRI analysis and brain disorder detection},  
+  journal={Medical Image Analysis},
+  volume={101},
+  pages={103403},
+  year={2025}
+}
+```
+
 
 # Contact
 If you have any problem with our code or have some suggestions, please feel free to contact us: 
